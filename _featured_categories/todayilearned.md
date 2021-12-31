@@ -21,14 +21,14 @@ description: >
 sitemap: false
 ---
 
-1. [WEB1]{:.heading.flip-title} ------- HTML
-2. [WEB2.1]{:.heading.flip-title} ----- CSS
-3. [WEB2.2]{:.heading.flip-title} ----- Javascript
+1. [Web1]{:.heading.flip-title} ------- HTML
+2. [Web2]{:.heading.flip-title} ------- CSS
+3. [Web3]{:.heading.flip-title} ------- Javascript
 4. [Frontend]{:.heading.flip-title} --- Frontend
 5. [Python]{:.heading.flip-title} ------ Python
 
-[WEB1]: /web1/
-[WEB2.1]: /css/
-[WEB2.2]: /javascript/
+[Web1]: /web-1/
+[Web2]: /web-2/
+[Web3]: /web-3/
 [Frontend]: /frontend/
 [Python]: /python/

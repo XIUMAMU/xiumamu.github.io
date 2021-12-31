@@ -1,10 +1,10 @@
 ---
 layout: list
 category: todayilearned
-bigtitle: Javascript
-slug: Javascript
+bigtitle: WEB-3
+slug: WEB-3
 description: >
-  생활코딩의 WEB2 Javascript 수업을 들으며.
+  생활코딩의 Javascript 수업을 들으며.
 
 related_posts:
     - 

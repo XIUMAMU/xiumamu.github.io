@@ -12,10 +12,10 @@ description: >
 invert_sidebar: true
 categories:
   - Today I Learned
-  - CSS
+  - WEB-3
 ---
 
-# CSS?
+# js?
 
 What's New in Hydejack 9.1?
 

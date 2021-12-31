@@ -22,7 +22,7 @@ redirect_from:
 ---
 >  97년 12월 20일 생
 > 현재 거주지  - 충청북도 청주시
-연락처: khw11044@gmail.com
+<!-- 연락처: khw11044@gmail.com
 > Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
 ---
 > Mar.20xx ~ Feb.20xx xx 대학교
@@ -55,4 +55,4 @@ Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[ht
 ---
 -Language : Python, C/C++
 -FrameWork: Pytorch, Tensorflow(Keras)
--Certification : CCNA, Internet of Things Knowledge Certification
+-Certification : CCNA, Internet of Things Knowledge Certification -->

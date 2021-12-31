@@ -3,15 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Today I Learned
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
-
+slug: Today I Learned
+menu: true
+submenu: true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  This is what i learned today.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -20,3 +20,15 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+1. [WEB1]{:.heading.flip-title} ------- HTML
+2. [WEB2.1]{:.heading.flip-title} ----- CSS
+3. [WEB2.2]{:.heading.flip-title} ----- Javascript
+4. [Frontend]{:.heading.flip-title} --- Frontend
+5. [Python]{:.heading.flip-title} ------ Python
+
+[WEB1]: /web1/
+[WEB2.1]: /css/
+[WEB2.2]: /javascript/
+[Frontend]: /frontend/
+[Python]: /python/

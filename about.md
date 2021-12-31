@@ -30,7 +30,6 @@ redirect_from:
 > IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
 ---
 ## Research Interest
- 
 ---
 * Computer Vision
 + image Object Detection
